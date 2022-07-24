@@ -1,0 +1,7 @@
+name: Achievements
+version: '${version}'
+main: net.projektcontingency.achievements.Achievements
+api-version: 1.17
+authors: [ richesexe ]
+description: The achievement tracking system used for Projekt Contingency
+depend:  [Titanium, RedLib]
